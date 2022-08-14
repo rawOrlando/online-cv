@@ -66,21 +66,21 @@ education:
           - Bullet point
 experiences:
     - role: Software Engineer
-      time: Semptember 2018 - October 2021
+      time: September 2018 - October 2021
       company: Watchguard
       details: |
-          - Working on a the DNSWatch team, a 4-7 person team. We developed and maintained DNSWatch, a cloud-based service filtering connections at the DNS level. Blocking connections both malicious and according to customers content filtering policy.
+          - Working on the DNSWatch team, a 4-7 person team. We developed and maintained DNSWatch, a cloud-based service filtering connections at the DNS level. Blocking connections both malicious and according to customers' content filtering policy.
           - Upgraded large code base from Python 2 to Python 3.
           - Responsible for keeping numerous Python and JS dependencies up to date with new versions.
           - On call 24/7 with PagerDuty for incident response and triage for business-critical DNS infrastructure. Horizontal scaling API services with load balancers and AutoScaling groups.
-          - Evaluating database solution to solve issues with increasing write throughput.
-          - In charge of reviewing resumes for open positions on the team, and interviewing candidates.
+          - Evaluating database solutions to solve issues with increasing write throughput.
+          - In charge of reviewing resumes for open positions on the team and interviewing candidates.
     - role: Software Engineer Level 1
       time: June 2017 - September 2018
       company: Jacobs
       details: |
-          - Worked on a two man team, developing a data compiler, that converts Dafif data to a SQL database, while reverse verifying any data moved to make sure all data was transfer correctly.
-          - Helped maintain old components fixing bugs and adding features at customer’s direction.
+          - Worked on a two-man team, developing a data compiler that converts Dafif data to a SQL database while reverse verifying any data moved to make sure all data was transfered correctly.
+          - Helped maintain old components fixing bugs, and adding features at customer’s direction.
           - Interviewed new applicants
     - role: Head Technology Counselor
       time: Summer 2015
@@ -93,7 +93,7 @@ experiences:
       company: Covanta Energy
       details: |
           - Sole developer of data extraction and cleansing application for the EH&S from thousands of excel files into a database as the single source of truth.
-          - Worked as part of a larger development team given input in to other developers projects.
+          - Worked as part of a larger development team, giving input into other developers' projects.
     # todo add more of my experiences
 # Todo think about if anything fits here
 # projects:
